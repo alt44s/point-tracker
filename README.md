@@ -2,6 +2,8 @@
 
 Points Tracker is a simple GUI app to track your points every day. It has a friendly interface, saves your data, and shows your progress in a weekly view.
 
+Points Tracker is a simple GUI app to track your points every day. It has a friendly interface, saves your data, and shows your progress in a weekly view.
+
 ![preview](https://i.imgur.com/1gqVxdp.png)
 
 ## Key Features
@@ -25,7 +27,7 @@ Points Tracker is a simple GUI app to track your points every day. It has a frie
 
 ### Note:
 - Upon launching, the app automatically creates:
-  - A **database file** (`points_data.db`) in the same folder to save all your daily entries.
+  - A **database file** (`points.db`) in the same folder to save all your daily entries.
   - A **settings file** (`settings.json`) in the same folder if you apply any custom settings.
 
 ## Compiled Version
